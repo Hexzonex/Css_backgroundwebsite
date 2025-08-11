@@ -1,0 +1,16 @@
+body {
+  /* background-color: rgb(46, 46, 138); */
+  background-image: url(https://images.unsplash.com/photo-1674083324759-bdeade274ed3?q=80&w=435&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1000px;
+  background-attachment: fixed;
+}
+
+.jumbotroon {
+  width: 900px;
+  height: 400px;
+  border: 1px solid black;
+  background-image: url(https://images.unsplash.com/photo-1599682165750-cb6564151bc0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDM0fHx8ZW58MHx8fHx8);
+  background-repeat: cover;
+}
